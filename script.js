@@ -6,7 +6,7 @@
         const view = new MapView({
           container: "viewDiv",
           map: map,
-          zoom: 4,
+          zoom: 10,
           center: [-88.31, 41.85] // longitude, latitude
         });
       });
